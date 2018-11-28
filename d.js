@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = "NTE2MDE2MzgwNDA4MjMzOTk1.Dt-dbg.KhjMQ0CNcBta3ozn8apyJprP-6E"
 const fs = require('fs');
 const moment = require('moment');
 const sql = require('sqlite');
@@ -5145,4 +5144,4 @@ setInterval(function(){})
 
 
 
-client.login("NDUwNDczNTE3NDQwNTY1MjU5.Dez7kw.MN0b-7dBW0EAxqF3Eey2VCa1szE");
+client.login("NTE2MDE2MzgwNDA4MjMzOTk1.Dt-dbg.KhjMQ0CNcBta3ozn8apyJprP-6E");
